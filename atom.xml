@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Pavitran11/pavitran.github.io</id>
+    <title>RANDOM....</title>
+    <updated>2025-04-25T03:10:14.472Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Pavitran11/pavitran.github.io"/>
+    <link rel="self" href="https://Pavitran11/pavitran.github.io/atom.xml"/>
+    <logo>https://Pavitran11/pavitran.github.io/images/avatar.png</logo>
+    <icon>https://Pavitran11/pavitran.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, RANDOM....</rights>
+    <entry>
+        <title type="html"><![CDATA[ABOUT ME]]></title>
+        <id>https://Pavitran11/pavitran.github.io/post/about-me/</id>
+        <link href="https://Pavitran11/pavitran.github.io/post/about-me/">
+        </link>
+        <updated>2025-04-25T01:58:14.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="hey-there">Hey there! 👋</h1>
+<h2 id="im-pavitran-and-welcome-to-my-little-corner-of-the-internet">I'm <strong>Pavitran</strong> , and welcome to my little corner of the internet!</h2>
+<h3 id="im-currently-learning-how-to-build-websites-using-gridea-and-this-is-my-first-site-im-using-it-to-explore-experiment-and-share-a-bit-about-myself">I'm currently learning how to build websites using Gridea, and this is my first site. I'm using it to explore, experiment, and share a bit about myself.</h3>
+<pre>
+
+
+function hello{}(
+  Short quote of the day : "Take it day by day — good things are coming."
+)
+
+</pre>
+<hr>
+<h1 id="meme-corner">Meme Corner !</h1>
+<figure data-type="image" tabindex="1"><img src="https://Pavitran11/pavitran.github.io/post-images/1745546590971.jpg" alt="" loading="lazy"></figure>
+</pre>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h3 id="a-few-things-about-me">🌱 A Few Things About Me:</h3>
+<ul>
+<li>I enjoy coding and exploring computer techs.</li>
+<li>I'm learning about Gridea, a simple website maker.</li>
+<li>I created this site to practice and have fun with tech.</li>
+</ul>
+<h3 id="️-tools-im-using">🛠️ Tools I'm Using:</h3>
+<ul>
+<li>Gridea for writing and publishing</li>
+<li>Markdown for writing content</li>
+<li>GitHub Pages to host my site</li>
+</ul>
+<h3 id="get-in-touch">📫 Get in Touch:</h3>
+<p>Feel free to reach out or follow me on:</p>
+<ul>
+<li><a href="https://www.linkedin.com/feed/">Linkedin</a></li>
+<li><a href="https://github.com/">GitHub</a></li>
+<li><a href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
+</ul>
+<p><strong><em>Thanks for visiting!</em></strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WEBSITE BASICS]]></title>
+        <id>https://Pavitran11/pavitran.github.io/post/website-workshop/</id>
+        <link href="https://Pavitran11/pavitran.github.io/post/website-workshop/">
+        </link>
+        <updated>2025-04-25T00:40:45.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="basics">BASICS</h1>
+<h2 id="h2">H2</h2>
+<h3 id="h3">H3</h3>
+<h4 id="h4">H4</h4>
+<h5 id="h5">H5</h5>
+<p>####### H6</p>
+<p>italic = <em>italic</em><br>
+bold = <strong>bold</strong><br>
+bold italic = <strong><em>bold italic</em></strong></p>
+<p>listing</p>
+<ul>
+<li>item 1</li>
+<li>item 2
+<ul>
+<li>1a subitem</li>
+<li>2a subitem</li>
+</ul>
+</li>
+</ul>
+<p>ordered list</p>
+<ol>
+<li>first item</li>
+<li>first
+<ol>
+<li>subitem</li>
+<li>subitem</li>
+</ol>
+</li>
+</ol>
+<p>links<br>
+<a href="https://github.com/">gridea</a><br>
+<a href="https://github.com/">https://github.com/</a></p>
+<p>images<br>
+<img src="https://Pavitran11/pavitran.github.io/post-images/1745542597146.png" alt="" loading="lazy"></p>
+<p>code block</p>
+<pre>
+function hello{}(
+    console.lpg("Hello World")
+)
+
+</pre>
+<p>horizontal line</p>
+<hr>
+<h2 id="or">or</h2>
+<p>tables</p>
+<table>
+<thead>
+<tr>
+<th>header 1</th>
+<th>header 2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>row 1</td>
+<td>data</td>
+</tr>
+<tr>
+<td>row 2</td>
+<td>data</td>
+</tr>
+</tbody>
+</table>
+<p>check boxes</p>
+<p>-[] task 1<br>
+-[x] task 2</p>
+<p><br><!-- line break --></br><br>
+<b>bold </b></p>
+<p><mark>highlights</mark><br>
+<span style="font-family: 'Verdana', sans-serif;">Verdana</span><br>
+<span style="font-family: 'Tahoma', sans-serif;">Tahoma</span><br>
+<span style="font-family: 'Trebuchet MS', sans-serif;">Trebuchet MS</span><br>
+<span style="font-family: 'Times New Roman', serif;">Times New Roman</span><br>
+<span style="font-family: 'Georgia', serif;">Georgia</span><br>
+<span style="font-family: 'Courier New', monospace;">This is Courier New font</span><br>
+<span style="font-family: 'Brush Script MT', cursive;">Brush Script MT</span></p>
+]]></content>
+    </entry>
+</feed>
